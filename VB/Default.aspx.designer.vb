@@ -38,7 +38,7 @@ Namespace WebApplication4
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxRadioButtonList1 As Global.DevExpress.Web.ASPxEditors.ASPxRadioButtonList
+		Protected ASPxRadioButtonList1 As Global.DevExpress.Web.ASPxRadioButtonList
 
 		''' <summary>
 		''' ASPxPivotGrid1 control.
